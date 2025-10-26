@@ -1,5 +1,5 @@
-# Pizza_Sales_Inshight
-
+# Pizza_Sales_Inshight( End To End Project)**
+Tools Used: MS Excel, MySQL, and Power BI
 
 Domino's Pizza Sales Performance Analysis
 
@@ -17,7 +17,7 @@ Different aspects of pizza sales data will be visualized to gain insights and un
 6. Top 5 best sellers by revenue, total quantity, and total orders
 7. Bottom 5 worst sellers by revenue, total quantity, and total orders
 
-Tools Used: MS Excel, MySQL, and Power BI.
+
 
 Skills Used: The skills used in this project include data cleaning, data transformation, ETL, Power Query, DAX (Data Analysis Expression) for
 measures and metrics, data analysis, data visualization, reports, and dashboards. SQL queries will be used to validate data.
