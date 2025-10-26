@@ -1,4 +1,4 @@
-# Pizza_Sales_Inshight( End To End Project)**
+# Pizza_Sales_Inshight( End To End Project)
 Tools Used: MS Excel, MySQL, and Power BI
 
 Domino's Pizza Sales Performance Analysis
