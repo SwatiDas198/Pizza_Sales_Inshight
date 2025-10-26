@@ -3,7 +3,7 @@
 
 Domino's Pizza Sales Performance Analysis
 
-Objective: The objective is to increase Domino's sales by analyzing the sales data from the previous year, 2022, and finding key insights.
+Objective: The objective is to increase Domino's sales by analyzing the sales data from the year, 2022, and finding key insights.
 
 Understanding Requirements: The key indicators for pizza sales data will be analyzed to gain insights into business performance. Specifically,
 the following metrics will be calculated: Total revenue, average order value, total pizzas sold, total orders, and average pizzas per order. 
